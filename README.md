@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @patricktouma
-- 👀 I’m interested in learning as much as I can about computer
+- 👀 I’m interested in learning as much as I can about computers
 - 🌱 I’m currently learning computer science at TU Darmstadt
 - 💞️ I’m looking to collaborate on whatever project that I can help with! :)
 - 🎥 Making movies is my passion
